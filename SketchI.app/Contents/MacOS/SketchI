@@ -1,0 +1,2 @@
+#!/bin/sh
+DYLD_INSERT_LIBRARIES=/Applications/SketchI.app/Contents/Frameworks/libHookIE.dylib /Applications/Sketch.app/Contents/MacOS/Sketch
